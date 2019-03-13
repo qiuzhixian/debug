@@ -38,11 +38,9 @@ Fiddler的运行机制其实就是本机上监听 8888 端口的 HTTP 代理。
 
 ### 二、[charles抓包](https://zhubangbang.com/charlesproxy)
 支持修改线上代码，调试
-- 安装
-- 破解
-- 使用
-- 手机安装CharlesSSL证书支持抓取HTTPS请求 chls.pro/ssl
-- 怎么解决压缩后的本地调试代码？
+- [Charles破解版免费下载和安装教程(含windows64位和Mac版本的破解文件)](https://zhubangbang.com/charles-crack-version-free-download-and-install-tutorial.html)
+- [使用教程](https://zhubangbang.com/charles-the-phone-captures-the-package-setup.html)
+- [手机安装CharlesSSL证书支持抓取HTTPS请求 chls.pro/ssl](https://zhubangbang.com/charles-https-packet-capture-method-and-principle.html)
 
 ### 三、[Thor抓包软件（ios）]()
 - 安装
